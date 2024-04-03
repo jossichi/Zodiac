@@ -1,0 +1,138 @@
+{
+    "Bạch Dương": {
+        "dates": ["21/3 - 19/4"],
+        "male": {"compatible": [{"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "female"}, 
+                                {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "female"},
+                                {"sign": "Song Ngư", "dates": "19/2 - 20/3", "gender": "female"}, 
+                                {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "female"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "21/6 - 22/7", "gender": "female"}, 
+                                 {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "female"}]},
+
+        "female": {"compatible": [{"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "male"}, 
+                                  {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "female"},
+                                  {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "male"}], 
+                "incompatible": [{"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}, 
+                                 {"sign": "Song Ngư", "dates": "19/2 - 20/3", "gender": "male"}]}
+    },
+    "Kim Ngưu": {
+        "dates": ["20/4 - 20/5"],
+        "male": {"compatible": [{"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "female"}, 
+                                {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "female"}], 
+                "incompatible": [{"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "female"}, 
+                                 {"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                  {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "male"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "21/6 - 22/7", "gender": "male"}, 
+                                 {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}]}
+    },
+    "Song Tử": {
+        "dates": ["21/5 - 21/6"],
+        "male": {"compatible": [{"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "female"}, 
+                                {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "female"}], 
+                "incompatible": [{"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "female"}, 
+                                 {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                  {"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "male"}], 
+                "incompatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "male"}, 
+                                 {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}]}
+    },
+    "Cự Giải": {
+        "dates": ["22/6 - 22/7"],
+        "male": {"compatible": [{"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "female"}, 
+                                {"sign": "Song Ngư", "dates": "19/2 - 20/3", "gender": "female"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "female"}, 
+                                 {"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}, 
+                                  {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "male"}], 
+                "incompatible": [{"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "male"}, 
+                                 {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "male"}]}
+    },
+    "Sư Tử": {
+        "dates": ["23/7 - 22/8"],
+        "male": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "female"}, 
+                                {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "female"}], 
+                "incompatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "female"}, 
+                                 {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "male"}, 
+                                  {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "male"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "male"}, 
+                                 {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}]}
+    },
+    "Xử Nữ": {
+        "dates": ["23/8 - 22/9"],
+        "male": {"compatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "female"}, 
+                                {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "female"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "female"}, 
+                                 {"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "male"}, 
+                                  {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                 {"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "male"}]}
+    },
+    "Thiên Bình": {
+        "dates": ["23/9 - 22/10"],
+        "male": {"compatible": [{"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "female"}, 
+                                {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "female"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "female"}, 
+                                 {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                  {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "male"}], 
+                "incompatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "male"}, 
+                                 {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}]}
+    },
+    "Bọ Cạp": {
+        "dates": ["23/10 - 21/11"],
+        "male": {"compatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "female"}, 
+                                {"sign": "Song Ngư", "dates": "19/2 - 20/3", "gender": "female"}], 
+                "incompatible": [{"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "female"}, 
+                                 {"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}, 
+                                  {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "male"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                 {"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "male"}]}
+    },
+    "Nhân Mã": {
+        "dates": ["22/11 - 21/12"],
+        "male": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "female"}, 
+                                {"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "female"}], 
+                "incompatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "female"}, 
+                                 {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "male"}, 
+                                  {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "male"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "male"}, 
+                                 {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}]}
+    },
+    "Ma Kết": {
+        "dates": ["22/12 - 19/1"],
+        "male": {"compatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "female"}, 
+                                {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "female"}], 
+                "incompatible": [{"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "female"}, 
+                                 {"sign": "Bảo Bình", "dates": "20/1 - 18/2", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "male"}, 
+                                  {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "male"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                 {"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "male"}]}
+    },
+    "Bảo Bình": {
+        "dates": ["20/1 - 18/2"],
+        "male": {"compatible": [{"sign": "Song Tử", "dates": "21/5 - 21/6", "gender": "female"}, 
+                                {"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "female"}], 
+                "incompatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "female"}, 
+                                 {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "male"}, 
+                                  {"sign": "Nhân Mã", "dates": "22/11 - 21/12", "gender": "male"}], 
+                "incompatible": [{"sign": "Kim Ngưu", "dates": "20/4 - 20/5", "gender": "male"}, 
+                                 {"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}]}
+    },
+    "Song Ngư": {
+        "dates": ["19/2 - 20/3"],
+        "male": {"compatible": [{"sign": "Cự Giải", "dates": "22/6 - 22/7", "gender": "female"}, 
+                                {"sign": "Bọ Cạp", "dates": "23/10 - 21/11", "gender": "female"}], 
+                "incompatible": [{"sign": "Bạch Dương", "dates": "21/3 - 19/4", "gender": "female"}, 
+                                 {"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "female"}]},
+        "female": {"compatible": [{"sign": "Xử Nữ", "dates": "23/8 - 22/9", "gender": "male"}, 
+                                  {"sign": "Ma Kết", "dates": "22/12 - 19/1", "gender": "male"}], 
+                "incompatible": [{"sign": "Sư Tử", "dates": "23/7 - 22/8", "gender": "male"}, 
+                                 {"sign": "Thiên Bình", "dates": "23/9 - 22/10", "gender": "male"}]}
+    }
+}
